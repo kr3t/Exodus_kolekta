@@ -15,7 +15,7 @@ font-size: 24px;
 }
 .cashbutton{
     -webkit-appearance: none;
--moz-appearance;
+    -moz-appearance:none;
     border-radius: 10px;
     width: 30%;
     border:none ;

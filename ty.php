@@ -22,7 +22,7 @@
 $ile = $_GET['status'];    
 if ($ile == "OK"){
 ?><div class="ty_text">
-<span class="thanks mont">Dziękujemy za twoją chojność</span>
+<span class="thanks mont">Dziękujemy za twoją chojność!</span>
     </div>   
 <?php    
 }
@@ -30,7 +30,7 @@ else{
 ?>
 
 <div class="ty_text">
-<span class="onemore mont">Coś poszło nie tak... sprobuj jeszcze raz</span>
+<span class="onemore mont">Coś poszło nie tak... spróbuj jeszcze raz</span>
     </div>  
    
 <?php    
