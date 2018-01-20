@@ -5,7 +5,7 @@ font-size: 40px;
 color: #4d4c4c;
 }
 .onediv{
-padding-top: 50px;
+padding-top: 20px;
     padding-left, padding-right: 30px;
     text-align: center;
     }
@@ -20,7 +20,7 @@ font-size: 24px;
     width: 30%;
     border:none ;
     background-color: #4a4a4a;
-    color: red;
+    color: white;
     padding: 15px 20px;
     text-align: center;
     text-decoration: none;
@@ -28,4 +28,7 @@ font-size: 24px;
     font-size: 30px;
     margin: 4px 2px;
     font-weight: 100;
+}
+.divbutton{
+    padding-top: 15px;
 }
